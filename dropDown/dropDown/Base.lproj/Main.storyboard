@@ -775,9 +775,9 @@
                                 </textFieldCell>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zOB-WX-7h4">
-                                <rect key="frame" x="167" y="226" width="134" height="16"/>
+                                <rect key="frame" x="167" y="226" width="83" height="16"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" lineBreakMode="clipping" title="PRRRUUERUER¿WER" id="cMS-XX-Y4s">
+                                <textFieldCell key="cell" lineBreakMode="clipping" title="ESto est aml " id="cMS-XX-Y4s">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
