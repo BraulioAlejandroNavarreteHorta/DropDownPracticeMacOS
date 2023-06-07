@@ -12,6 +12,8 @@ class ReciboVC: NSViewController {
     var imagen:String?
     var color:String?
     
+    var isgfhpuweop:String?
+    
     
     @IBOutlet weak var lblTitulo: NSTextField!
     
